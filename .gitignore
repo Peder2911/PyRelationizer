@@ -1,0 +1,9 @@
+
+*.py[cod]
+__pycache__/*
+.wtt.yaml
+
+test/*
+
+dev.py
+*.swp 
